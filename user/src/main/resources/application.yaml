@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: user
+  datasource:
+    url: jdbc:h2:file:./data/testdb
+    driverClassName: org.h2.Driver
+    username: sa
+    password:
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+server:
+  port: 8081
+

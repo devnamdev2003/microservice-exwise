@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Grocery Run",
+    "amount": 150.25,
+    "category": "Food",
+    "userId": 1
+  },
+  {
+    "title": "Monthly Rent",
+    "amount": 1200.00,
+    "category": "Housing",
+    "userId": 1
+  },
+  {
+    "title": "Electric Bill",
+    "amount": 85.50,
+    "category": "Utilities",
+    "userId": 2
+  },
+  {
+    "title": "Movie Tickets",
+    "amount": 32.00,
+    "category": "Entertainment",
+    "userId": 2
+  },
+  {
+    "title": "Gas Station",
+    "amount": 45.00,
+    "category": "Transportation",
+    "userId": 3
+  },
+  {
+    "title": "Coffee Shop",
+    "amount": 6.75,
+    "category": "Dining",
+    "userId": 3
+  },
+  {
+    "title": "Gym Membership",
+    "amount": 50.00,
+    "category": "Health & Fitness",
+    "userId": 4
+  },
+  {
+    "title": "Pharmacy",
+    "amount": 22.15,
+    "category": "Health & Fitness",
+    "userId": 4
+  },
+  {
+    "title": "Internet Bill",
+    "amount": 75.00,
+    "category": "Utilities",
+    "userId": 5
+  },
+  {
+    "title": "New Shoes",
+    "amount": 110.00,
+    "category": "Shopping",
+    "userId": 5
+  },
+  {
+    "title": "Dinner with Friends",
+    "amount": 88.40,
+    "category": "Dining",
+    "userId": 6
+  },
+  {
+    "title": "Uber Ride",
+    "amount": 18.50,
+    "category": "Transportation",
+    "userId": 6
+  },
+  {
+    "title": "Netflix Subscription",
+    "amount": 15.99,
+    "category": "Entertainment",
+    "userId": 7
+  },
+  {
+    "title": "Bookstore",
+    "amount": 28.50,
+    "category": "Shopping",
+    "userId": 7
+  },
+  {
+    "title": "Water Bill",
+    "amount": 40.00,
+    "category": "Utilities",
+    "userId": 8
+  },
+  {
+    "title": "Farmers Market",
+    "amount": 65.00,
+    "category": "Food",
+    "userId": 8
+  },
+  {
+    "title": "Car Insurance",
+    "amount": 120.00,
+    "category": "Transportation",
+    "userId": 9
+  },
+  {
+    "title": "Dentist Visit",
+    "amount": 150.00,
+    "category": "Health & Fitness",
+    "userId": 9
+  },
+  {
+    "title": "Lunch Out",
+    "amount": 15.00,
+    "category": "Dining",
+    "userId": 10
+  },
+  {
+    "title": "Pet Supplies",
+    "amount": 45.80,
+    "category": "Shopping",
+    "userId": 10
+  },
+  {
+    "title": "Software License",
+    "amount": 99.00,
+    "category": "Utilities",
+    "userId": 11
+  },
+  {
+    "title": "Concert Ticket",
+    "amount": 85.00,
+    "category": "Entertainment",
+    "userId": 11
+  },
+  {
+    "title": "Public Transit Pass",
+    "amount": 60.00,
+    "category": "Transportation",
+    "userId": 12
+  },
+  {
+    "title": "Fast Food",
+    "amount": 12.50,
+    "category": "Dining",
+    "userId": 12
+  },
+  {
+    "title": "Haircut",
+    "amount": 35.00,
+    "category": "Health & Fitness",
+    "userId": 13
+  },
+  {
+    "title": "Baking Supplies",
+    "amount": 24.90,
+    "category": "Food",
+    "userId": 13
+  },
+  {
+    "title": "Phone Bill",
+    "amount": 80.00,
+    "category": "Utilities",
+    "userId": 14
+  },
+  {
+    "title": "Winter Jacket",
+    "amount": 140.00,
+    "category": "Shopping",
+    "userId": 14
+  },
+  {
+    "title": "Weekend Trip",
+    "amount": 350.00,
+    "category": "Entertainment",
+    "userId": 15
+  },
+  {
+    "title": "Car Wash",
+    "amount": 15.00,
+    "category": "Transportation",
+    "userId": 15
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "username": "alex_j",
+    "email": "alex.j@example.com"
+  },
+  {
+    "username": "sarah_smith",
+    "email": "ssmith88@example.com"
+  },
+  {
+    "username": "michael_t",
+    "email": "mike.t@testmail.com"
+  },
+  {
+    "username": "emily_r",
+    "email": "emily.rose@demo.net"
+  },
+  {
+    "username": "david_w",
+    "email": "davidw123@example.org"
+  },
+  {
+    "username": "jessica_l",
+    "email": "jessica.lee@sample.com"
+  },
+  {
+    "username": "chris_p",
+    "email": "chris.p@mockemail.com"
+  },
+  {
+    "username": "amanda_b",
+    "email": "abrown_99@testmail.com"
+  },
+  {
+    "username": "joshua_k",
+    "email": "josh.king@example.com"
+  },
+  {
+    "username": "ashley_m",
+    "email": "ashleym@demo.net"
+  },
+  {
+    "username": "matthew_c",
+    "email": "matt.clark@sample.org"
+  },
+  {
+    "username": "brittany_s",
+    "email": "bsmith@example.com"
+  },
+  {
+    "username": "daniel_v",
+    "email": "daniel.v@mockemail.com"
+  },
+  {
+    "username": "megan_h",
+    "email": "megan_hill@testmail.com"
+  },
+  {
+    "username": "justin_d",
+    "email": "justin.davis@example.net"
+  }
+]

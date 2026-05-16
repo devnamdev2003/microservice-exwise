@@ -1,0 +1,77 @@
+[
+  {
+    "categoryName": "Food & Dining",
+    "categoryDescription": "All food-related expenses including groceries, restaurants, and coffee shops.",
+    "userId": 1
+  },
+  {
+    "categoryName": "Housing",
+    "categoryDescription": "Monthly rent, mortgage payments, HOA fees, and home maintenance.",
+    "userId": 2
+  },
+  {
+    "categoryName": "Utilities",
+    "categoryDescription": "Essential home services like electricity, water, gas, and trash collection.",
+    "userId": 3
+  },
+  {
+    "categoryName": "Transportation",
+    "categoryDescription": "Gasoline, public transit, ride-sharing, car maintenance, and parking fees.",
+    "userId": 4
+  },
+  {
+    "categoryName": "Entertainment",
+    "categoryDescription": "Movies, concerts, streaming subscriptions, and recreational activities.",
+    "userId": 5
+  },
+  {
+    "categoryName": "Health & Fitness",
+    "categoryDescription": "Gym memberships, medical bills, dental care, and pharmacy purchases.",
+    "userId": 6
+  },
+  {
+    "categoryName": "Shopping",
+    "categoryDescription": "Clothing, electronics, home goods, and miscellaneous retail purchases.",
+    "userId": 7
+  },
+  {
+    "categoryName": "Income",
+    "categoryDescription": "Primary salary, freelance wages, bonuses, and other incoming money.",
+    "userId": 8
+  },
+  {
+    "categoryName": "Travel",
+    "categoryDescription": "Flights, hotels, rental cars, and vacation-related expenses.",
+    "userId": 9
+  },
+  {
+    "categoryName": "Education",
+    "categoryDescription": "Tuition, textbooks, online courses, and school supplies.",
+    "userId": 10
+  },
+  {
+    "categoryName": "Personal Care",
+    "categoryDescription": "Haircuts, cosmetics, salon services, and toiletries.",
+    "userId": 11
+  },
+  {
+    "categoryName": "Gifts & Donations",
+    "categoryDescription": "Charitable contributions and gifts for family or friends.",
+    "userId": 12
+  },
+  {
+    "categoryName": "Insurance",
+    "categoryDescription": "Health, auto, renters, home, and life insurance premiums.",
+    "userId": 13
+  },
+  {
+    "categoryName": "Investments",
+    "categoryDescription": "Contributions to stocks, bonds, retirement accounts, and savings.",
+    "userId": 14
+  },
+  {
+    "categoryName": "Miscellaneous",
+    "categoryDescription": "Any other expenses that do not fit into the standard categories.",
+    "userId": 15
+  }
+]
