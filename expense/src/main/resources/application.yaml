@@ -13,3 +13,7 @@ spring:
     show-sql: true
     hibernate:
       ddl-auto: update
+
+springdoc:
+  api-docs:
+    path: /expense/v3/api-docs

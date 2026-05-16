@@ -15,3 +15,6 @@ spring:
       ddl-auto: update
 
 
+springdoc:
+  api-docs:
+    path: /user/v3/api-docs

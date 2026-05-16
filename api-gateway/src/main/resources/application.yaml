@@ -11,7 +11,7 @@ spring:
           '[/**]':
             allowedOrigins:
               - "https://devnamdev2003.github.io"
-              - "http://localhost:3000"
+              - "http://localhost:8080"
             allowedMethods:
               - GET
               - POST
@@ -35,3 +35,13 @@ spring:
           uri: http://localhost:8083
           predicates:
             - Path=/category/**
+
+springdoc:
+  swagger-ui:
+    urls:
+      - name: User Service
+        url: /user/v3/api-docs
+      - name: Expense Service
+        url: /expense/v3/api-docs
+      - name: Category Service
+        url: /category/v3/api-docs
